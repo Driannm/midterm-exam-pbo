@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">UTS - 22041039</string>
+    <string name="project">My Project</string>
+    <string name="tugas_1">Tugas 1 - CV</string>
+    <string name="tugas_2">Tugas 2 - Empty View Activity</string>
+    <string name="tugas_3">Tugas 3 - Intent</string>
+    <string name="tugas_4">Tugas 4 - Intent with Data</string>
+
+
+    <!--  Tugas 1  -->
+    <string name="nama">Yuda Andrian</string>
+    <string name="deskripsi">Nama Yuda Andrian</string>
+    <string name="isideskripsi">Saya adalah mahasiswa Teknik Komputer semester 5 yang berdedikasi dan antusias dengan minat yang kuat pada Komputasi Awan. Selama masa studi saya, saya telah membangun dasar yang kuat dalam ilmu komputer dan teknologi, dan mengembangkan keterampilan teknis yang relevan melalui berbagai proyek akademis dan pengalaman praktis.</string>
+
+    <string name="alamat">Alamat\t\t: Kepandean, Kab. Tegal</string>
+    <string name="email">Email\t\t  : yuda.studying@gmail.com</string>
+    <string name="job"><![CDATA[Mahasiswa Teknik Komputer Semester 5]]></string>
+    <string name="no_hp">Phone  : 0822-1630-8189</string>
+
+    <string name="skil1">• Backend Developer</string>
+    <string name="skil2">• DevOps</string>
+    <string name="skil3">• Cloud Computing</string>
+    <string name="klik">Butuh informasi lebih lanjut? \Bagikan\!</string>
+    <string name="bagikan">Bagikan!</string>
+
+
+    <!--  Tugas 2  -->
+    <string name="hint_temperature">Masukkan suhu</string>
+    <string name="hint_length">Masukkan panjang</string>
+    <string name="konversi">Konversi</string>
+
+    <!--  Tugas 4  -->
+    <string name="pizza">Pizza</string>
+    <string name="burger">Burger</string>
+    <string name="kentang">Kentang Goreng</string>
+    <string name="hotdog">Hot Dog</string>
+
+    <string name="pizza_description">Pizza adalah hidangan khas Italia yang terdiri dari adonan roti tipis atau tebal, dilapisi dengan saus tomat, keju mozzarella, dan berbagai topping seperti pepperoni, sosis, paprika, dan jamur. Pizza dipanggang hingga kejunya meleleh dan berwarna keemasan, menghasilkan perpaduan rasa gurih dan lezat. Setiap gigitan pizza menawarkan kombinasi tekstur renyah dan keju yang lumer.</string>
+    <string name="burger_description">Burger adalah roti bundar yang diisi dengan patty daging sapi atau ayam yang juicy, dilengkapi dengan sayuran segar seperti selada, tomat, bawang, dan timun acar. Di atasnya ditambahkan keju dan saus favorit seperti mayones, saus tomat, atau mustard, yang memberi cita rasa gurih dan manis. Burger menjadi pilihan favorit karena praktis dan lezat.</string>     <string name="kentang_description">Kentang goreng adalah makanan ringan yang populer di seluruh dunia. Terbuat dari potongan kentang yang digoreng hingga garing dan berwarna keemasan, lalu diberi sedikit garam untuk menambah rasa. Tekstur luarnya renyah, sementara bagian dalamnya lembut. Biasanya, kentang goreng disajikan sebagai pendamping burger atau dinikmati dengan saus seperti saus tomat atau mayones.</string>
+    <string name="hotdog_description">Hotdog adalah roti panjang yang diisi dengan sosis yang juicy, biasanya dipanggang atau direbus hingga matang sempurna. Selain sosis, hotdog juga dilengkapi dengan berbagai topping seperti mustard, saus tomat, mayones, dan bawang goreng, yang menambah rasa gurih dan sedikit manis. Kadang, tambahan seperti keju parut atau acar juga digunakan untuk memperkaya cita rasanya. Hotdog terkenal sebagai makanan cepat saji yang simpel, lezat, dan pas untuk dimakan kapan saja.</string>
+
+    <string name="kembali">Kembali</string>
+</resources>

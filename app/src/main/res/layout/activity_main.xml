@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:id="@+id/main"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/project"
+            android:textSize="25sp"
+            android:fontFamily="@font/inter_black"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:padding="30dp"/>
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:gravity="center">
+
+                <ImageButton
+                    android:id="@+id/ib_tugas_1"
+                    android:layout_width="170dp"
+                    android:layout_height="200dp"
+                    android:scaleType="fitCenter"
+                    android:paddingRight="10dp"
+                    android:background="#FFFFFF"
+                    android:src="@drawable/cv" />
+
+                <ImageButton
+                    android:id="@+id/ib_tugas_2"
+                    android:layout_width="170dp"
+                    android:layout_height="200dp"
+                    android:scaleType="fitCenter"
+                    android:paddingLeft="10dp"
+                    android:background="#FFFFFF"
+                    android:src="@drawable/temp" />
+
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:gravity="center">
+
+                <ImageButton
+                    android:id="@+id/ib_tugas_3"
+                    android:layout_width="170dp"
+                    android:layout_height="200dp"
+                    android:scaleType="fitCenter"
+                    android:paddingRight="10dp"
+                    android:background="#FFFFFF"
+                    android:src="@drawable/food1" />
+
+                <ImageButton
+                    android:id="@+id/ib_tugas_4"
+                    android:layout_width="170dp"
+                    android:layout_height="200dp"
+                    android:scaleType="fitCenter"
+                    android:paddingLeft="10dp"
+                    android:background="#FFFFFF"
+                    android:src="@drawable/food2" />
+
+            </TableRow>
+
+        </TableLayout>
+
+    </LinearLayout>
+
+</ScrollView>

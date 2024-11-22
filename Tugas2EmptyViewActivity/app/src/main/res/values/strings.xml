@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tugas 2 - Empty View Activity</string>
+    <string name="no_tugas">Belum ada agenda untuk hari ini.</string>
+</resources>
